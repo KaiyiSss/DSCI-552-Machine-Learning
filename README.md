@@ -1,4 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/jj6yWBeY)
-
-
+Final Project: Use transfer learning to train ResNet50, EfficientNetB0, and VGG16 models using categorized images of sports. Using the trained images perform video classification by taking atleast 100 frames from videos and using majority polling on prediction of each frame.
 Please run 'pip install -r requirements.txt'
