@@ -1,2 +1,4 @@
-# DSCI-552
-My work from DSCI Machine Learning for Data Science class
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/jj6yWBeY)
+
+
+Please run 'pip install -r requirements.txt'
