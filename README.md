@@ -1,2 +1,2 @@
-# DSCI-552
-My work from DSCI Machine Learning for Data Science class
+# DSCI-552 Homework 8
+Breast Cancer classification using various classification models, including Supervisied, Semi-Superivised, Unsupervisied Learning and etc. 
