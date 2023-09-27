@@ -1,6 +1,6 @@
 # DSCI-552 Homework 8
 #### Breast Cancer classification using various classification models, including Supervisied, Semi-Superivised, Unsupervisied Learning and etc. 
-1. Supervised, Semi-Supervised, and Unsupervised Learning
+##### 1. Supervised, Semi-Supervised, and Unsupervised Learning
 (a) Download the Breast Cancer Wisconsin (Diagnostic) Data Set from:
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+
 %28Diagnostic%29. Download the data in https://archive.ics.uci.edu/ml/
@@ -54,7 +54,9 @@ v. One can expect that supervised learning on the full data set works better tha
 semi-supervised learning with half of the data set labeled.One can expect that
 unsupervised learning underperforms in such situations. Compare the results
 you obtained by those methods.
-2. Active Learning Using Support Vector Machines
+
+
+##### 2. Active Learning Using Support Vector Machines
 (a) Download the banknote authentication Data Set from: https://archive.ics.
 uci.edu/ml/datasets/banknote+authentication. Choose 472 data points randomly as the test set, and the remaining 900 points as the training set. This is a
 binary classification problem.
